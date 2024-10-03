@@ -1,6 +1,5 @@
 # Análisis en Frecuencia
 
-\( C(z) \)
 El análisis en frecuencia permite observar el comportamiento de un sistema a partir de variaciones en la frecuencia de la señal de entrada. Utilizando señales sinusoidales, se observan cambios en la amplitud y la fase de la señal de salida, lo que permite inferir las características del sistema.
 
 ## 1. Definición
