@@ -6,7 +6,7 @@ El análisis en frecuencia permite observar el comportamiento de un sistema a pa
 
 El diagrama de Bode es una herramienta clave en el análisis en frecuencia. En el gráfico siguiente se muestra cómo varía la ganancia y el desfase de un sistema con respecto a la frecuencia de entrada:
 
-![Diagrama de Bode](bode.png)
+![Diagrama de Bode](bode.jpg)
 
 Este diagrama permite ver los márgenes de fase y ganancia, ayudando a verificar la estabilidad del sistema.
 
