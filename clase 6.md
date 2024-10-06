@@ -12,7 +12,7 @@ Las señales sinusoidales se pueden representar en forma de fasores, lo que faci
 
 ### 2.1. Procedimiento
 
-Si una señal de entrada sinusoidal es \( R(t) = A \sin (\omega kT + \theta) \), su representación en fasores es:
+Si una señal de entrada sinusoidal es $( R(t) = A \sin (\omega kT + \theta) )$, su representación en fasores es:
 
 \[
 R = A \angle \theta
