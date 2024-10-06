@@ -2,6 +2,14 @@
 
 El análisis en frecuencia permite observar el comportamiento de un sistema a partir de variaciones en la frecuencia de la señal de entrada. Utilizando señales sinusoidales, se observan cambios en la amplitud y la fase de la señal de salida, lo que permite inferir las características del sistema.
 
+## Diagrama de Bode
+
+El diagrama de Bode es una herramienta clave en el análisis en frecuencia. En el gráfico siguiente se muestra cómo varía la ganancia y el desfase de un sistema con respecto a la frecuencia de entrada:
+
+![Diagrama de Bode](diagrama_bode.png)
+
+Este diagrama permite ver los márgenes de fase y ganancia, ayudando a verificar la estabilidad del sistema.
+
 ## 1. Definición
 
 🔑 *Definición: El *análisis en frecuencia es un método para estudiar el comportamiento dinámico de un sistema mediante señales periódicas, observando cómo varían la magnitud y la fase de la señal de salida con respecto a la frecuencia de la señal de entrada.
