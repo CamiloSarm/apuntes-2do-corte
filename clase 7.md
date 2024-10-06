@@ -2,6 +2,8 @@
 
 El diseño de compensadores mediante análisis en frecuencia permite ajustar la respuesta de un sistema de control de manera eficiente. Utilizando diagramas de Bode y otras técnicas algebraicas, se pueden garantizar los márgenes de estabilidad y mejorar el rendimiento del sistema.
 
+![diagrama de boode con red de atraso](ruta-de-la-imagen)
+
 ## 1. Introducción a las Redes de Atraso
 
 🔑 *Definición: Una *red de atraso es un controlador que reduce la ganancia en frecuencias altas para mejorar la estabilidad y reducir el ruido, sin afectar el rendimiento en frecuencias bajas.
