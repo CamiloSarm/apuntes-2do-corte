@@ -2,6 +2,14 @@
 
 En esta clase se exploran los métodos algebraicos utilizados para modificar la función de transferencia de un sistema en lazo cerrado, con el fin de obtener una respuesta deseada. Estos métodos permiten diseñar controladores que aseguren la estabilidad y el rendimiento del sistema. Se presentan dos enfoques principales: igualación de modelo e igualación de coeficientes.
 
+## Ejemplo de Respuesta en Lazo Cerrado
+
+A continuación se muestra un gráfico que representa la respuesta en lazo cerrado de un sistema diseñado con métodos algebraicos. En este caso, estamos evaluando la estabilidad y el comportamiento subamortiguado:
+
+![Respuesta en Lazo Cerrado](respuesta_lazo_cerrado.png)
+
+Este gráfico ilustra cómo se comporta el sistema cuando aplicamos los métodos algebraicos de igualación de modelo para mejorar la estabilidad del sistema.
+
 ## 1. Introducción a los Métodos Algebraicos
 
 🔑 *Definición: Los *métodos algebraicos son técnicas que emplean álgebra para diseñar controladores que modifiquen el comportamiento dinámico de un sistema.
